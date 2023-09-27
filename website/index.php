@@ -105,7 +105,7 @@ function session($key, $default=NULL) {
     <main>
         <div class="container">
             <div class="wrapper">
-                <p class="title">Welcome on <span style="color:tomato">TEST SERVER</span></p>
+                <p class="title">Welcome on <span style="color:tomato">Next Gen Roleplay</span></p>
                 <p class="info">Hello welcome on test server, proffesional fivem server login
                     with 
                     discord account and have fun playing on our server.</p>
@@ -115,7 +115,7 @@ function session($key, $default=NULL) {
                 <p class="title">About our <span style="color:tomato">server.</span></p>
                 <p class="info white"><span style="color:tomato">Test server</span> is roleplay server on
                     platform FiveM. Our server
-                    our server is very good, we have own scripts, theyre really, like really
+                    our server is very good, we have own scripts, they're really, like really
                     good
                     join us.</p>
                 <a href="https://discord.gg/GXuHvrR" class="discord">Join on our Discord</a>
